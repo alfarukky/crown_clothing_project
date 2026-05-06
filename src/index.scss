@@ -1,4 +1,20 @@
 body {
   margin: 0;
   font-family: 'Open Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialised;
+  -moz-osx-font-smoothing: grayScale;
+}
+
+code {
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
 }
